@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **an e_bank app which helps the user which performs the major function of a bank**
+- 🔭 I’m currently working on **an e_bank app** that helps the user perform the major function of a bank
 
-- 🌱 I’m currently learning **micro services with spring boot**
+- 🌱 I’m currently learning **micro services** with spring boot
 
 - 👯 I’m looking to collaborate on **any project**
 
