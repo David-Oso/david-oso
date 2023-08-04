@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend software engineer from Nigeria</h3>
 <img align="center" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-oso&label=Profile%20views&color=0e75b6&style=flat" alt="david-oso" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-oso" alt="david-oso" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **an e_bank** app that helps the user perform the major function of a bank**
 
-- 🌱 I’m currently learning **micro services** with spring boot
+- 🌱 I’m currently learning **design patterns**
 
 - 👯 I’m looking to collaborate on **any project**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1maqR3wVufQWF3Ru6QDdq4KagdiwLYeXrIhtjhpUWaj0/edit?usp=sharing](https://docs.google.com/document/d/1maqR3wVufQWF3Ru6QDdq4KagdiwLYeXrIhtjhpUWaj0/edit?usp=sharing)
 
-- ⚡ Fun fact **I am willing and ready to learn new things. I also am a little bit funny**
+- ⚡ Fun fact **I am willing and ready to learn new things. I am also a little bit funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
