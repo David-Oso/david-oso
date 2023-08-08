@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Oso</h1>
-<h3 align="center">A passionate backend software engineer from Nigeria</h3>
-<img align="center" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
-
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<!-- <img align="center" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
+ -->
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david-oso" alt="david-oso" /></a> </p>
