@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **osodavid001@gmail.com**
 
-- 📄 Know about my experiences https://flowcv.com/resume/gjegq5td2h
 - ⚡ Fun fact **I am willing and ready to learn new things. I am also a little bit funny**
 
 <h3 align="left">Connect with me:</h3>
