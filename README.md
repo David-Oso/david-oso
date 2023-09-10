@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **an e_bank** app that helps the user perform the major function of a bank**
 
-- 🌱 I’m currently learning **design patterns**
+- 🌱 I’m currently learning **vue js** so as to build user interfaces
 
 - 👯 I’m looking to collaborate on **any project**
 
