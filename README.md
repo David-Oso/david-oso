@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **vue js** so as to build user interfaces
+- 🌱 I’m currently working on how to improve **software application quality**
 
 - 👯 I’m looking to collaborate on **any project**
 
